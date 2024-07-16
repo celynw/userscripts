@@ -4,6 +4,11 @@
 // @version     1.0
 // @author      celynw
 // @description Formats Chocolatey install command for running from WSL
+// @namespace   https://github.com/celynw/userscripts
+// @homepageURL https://github.com/celynw/userscripts
+// @supportURL  https://github.com/celynw/userscripts/issues
+// @updateURL   https://github.com/celynw/userscripts/raw/master/chocolatey_command_formatter.user.js
+// @downloadURL https://github.com/celynw/userscripts/raw/master/chocolatey_command_formatter.user.js
 // ==/UserScript==
 
 (function() {

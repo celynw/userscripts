@@ -4,7 +4,13 @@
 // @version      1.0
 // @author       celynw
 // @description  Redirect to unfiltered PR list when clicking PR tab on GitHub
+// @namespace    https://github.com/celynw/userscripts
+// @homepageURL  https://github.com/celynw/userscripts
+// @supportURL   https://github.com/celynw/userscripts/issues
+// @updateURL    https://github.com/celynw/userscripts/raw/master/github_pr_tab_redirect.user.js
+// @downloadURL  https://github.com/celynw/userscripts/raw/master/github_pr_tab_redirect.user.js
 // ==/UserScript==
+
 
 (function() {
     'use strict';
