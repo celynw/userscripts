@@ -26,7 +26,7 @@ For example:
 When clicking the 'Pull requests' tab in GitHub, it automatically filters to only open PRs. If you want to see all PRs, you have to edit the text of the search prompt.
 This script changes the default search to show all PRs, since there are dedicated buttons to show open or closed PRs from there.
 
-The link be changed like this:
+The link will be changed like this:
 
 ```diff
 - https://github.com/user/repo/pulls
