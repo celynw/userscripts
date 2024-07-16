@@ -1,8 +1,6 @@
 // ==UserScript==
 // @name        Chocolatey Command Formatter
-// @namespace   Violentmonkey Scripts
 // @match       *://community.chocolatey.org/packages*
-// @grant       none
 // @version     1.0
 // @author      celynw
 // @description Formats Chocolatey install command for running from WSL

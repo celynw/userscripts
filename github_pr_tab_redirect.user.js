@@ -1,10 +1,8 @@
 // ==UserScript==
 // @name         GitHub PR Tab Redirect
-// @namespace    Violentmonkey Scripts
 // @match        https://github.com/*
-// @grant        none
 // @version      1.0
-// @quthor       celynw
+// @author       celynw
 // @description  Redirect to unfiltered PR list when clicking PR tab on GitHub
 // ==/UserScript==
 

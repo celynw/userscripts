@@ -1,6 +1,8 @@
 # Userscripts
 
-These are helpful utilities which can be used with addons/extensions such as [Violentmonkey](https://violentmonkey.github.io/).
+These are helpful utilities which can be used with user script managers.
+
+I personally recommend [FireMonkey](https://addons.mozilla.org/en-CA/firefox/addon/firemonkey/) for Firefox.
 
 ## Usage
 
